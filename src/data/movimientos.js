@@ -1,0 +1,58 @@
+export const movementsData = [
+    {
+        id: "1",
+        tarjeta: "Mastercard",
+        estado: "Pendiente",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "+100.000",
+    },
+    {
+        id: "2",
+        tarjeta: "Visa",
+        estado: "Aprobado",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "+200.000",
+    },
+    {
+        id: "3",
+        tarjeta: "Mastercard",
+        estado: "Rechazado",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "-57.000",
+    },
+    {
+        id: "4",
+        tarjeta: "Mastercard",
+        estado: "Aprobado",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "+100.000",
+    },
+    {
+        id: "5",
+        tarjeta: "Visa",
+        estado: "Aprobado",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "-100.000",
+    },
+    {
+        id: "6",
+        tarjeta: "Mastercard",
+        estado: "Rechazado",
+        fecha: "12/12/2024",
+        hora: "09:50 AM",
+        comercio: "Empresa S.A.S",
+        monto: "-100.000",
+    },
+
+    // ...
+]

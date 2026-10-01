@@ -1,0 +1,11 @@
+{
+  // Reduce CPU de tsserver/eslint al tipear: no vigilar los árboles pesados.
+  "files.watcherExclude": {
+    "**/.next/**": true,
+    "**/node_modules/**": true,
+    "**/build/**": true,
+    "**/dist/**": true
+  },
+  "search.followSymlinks": false,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": false
+}
